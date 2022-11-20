@@ -1,0 +1,7 @@
+Q)     Difference Between Arrow Function And Regular Function
+
+Ans)   Arrow Function has no name and it is always created as anonymous Function
+        it is usually used where shorter syntax is required
+
+        Regular Function has a name and it is always created as Known Function
+        it is usually used where detailed syntax is required

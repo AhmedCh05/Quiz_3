@@ -1,0 +1,5 @@
+Q)     Three Ways To get Value From DOM
+
+Ans)    1) getElementById(Element Id)
+        2) getElementsByClassName(Class Name)
+        3) getElementsByTagName(Tag Name)
